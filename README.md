@@ -1,7 +1,7 @@
 
 # 📚 Algoritma Pemrograman
 
-This repository contains a collection of programming code from the **Programming Algorithm** course at my university with a total of 3 credits that I took in the 2022/2023 academic year.
+This repository contains a collection of programming code from the **Programming Algorithm** course at my university with a total of 3 credits that I took in the 2020/2021 academic year.
 
 
 ## ⚙️Tech Stack
